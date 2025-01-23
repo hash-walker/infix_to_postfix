@@ -1,6 +1,3 @@
-Here’s a **README.md** for your C++ program that explains its purpose, usage, and features based on the code you provided:
-
-```markdown
 # Infix to Postfix Converter and Evaluator
 
 This C++ program converts a mathematical expression from infix notation to postfix notation and evaluates the result. It uses a custom stack implementation and provides a menu-driven interface for users to interact with.
